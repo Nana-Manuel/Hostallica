@@ -47,11 +47,17 @@ a{
 button{
   color: white;
   padding: 0.5rem 2rem;
+  margin: 30px 3rem 0 3rem;
   margin-top: 30px;
   margin-right: 3rem;
   background-color: #ff0000;
   border-radius: 6px;
   border: none;
+  align-items: center;
+  justify-content: center;
+}
+h3{
+  margin: 0 1rem 0 3rem; 
 }
 .col1{
   padding: 20px;
